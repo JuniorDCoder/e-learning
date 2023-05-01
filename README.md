@@ -6,6 +6,6 @@ Then import the exceptional.sql file found in your extracted e-learning folder.
 Proceed to localhost/e-learning to access the platform as a user
 To access the admin panel, proceed to localhost/e-learning/gotoep
 
-User the following credentials to login:
+Use the following credentials to login:
 email: foryoungjuniorngu@gmail.com
 password: 123456
